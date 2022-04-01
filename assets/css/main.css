@@ -50,6 +50,10 @@ table {
 	border-spacing: 0;
 }
 
+#dane-img{
+	border-radius: 50%;
+}
+
 body {
 	-webkit-text-size-adjust: none;
 }
